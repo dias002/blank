@@ -1,0 +1,31 @@
+body {
+  background: linear-gradient(287.15deg, #450E4B 0%, #3C0C41 24.48%, rgba(207, 0, 99, 0) 100%), #ee2385;
+  height: 100vh;
+  background-repeat: no-repeat;
+  width: 100%;
+  overflow: hidden;
+  font-family: "Gothic A1";
+}
+
+.content_box {
+  width: 50%;
+  height: 50vh;
+  margin: 15% auto;
+  background-color: black;
+  border-radius: 40px;
+  padding-top: 40px;
+}
+.content_box .content_inner {
+  width: 80%;
+  margin: 0 auto;
+}
+.content_box .content_inner h1 {
+  color: white;
+}
+.content_box .content_inner p {
+  color: white;
+}
+.content_box .content_inner .fa-cat {
+  color: #450E4B;
+  font-size: 70px;
+}
